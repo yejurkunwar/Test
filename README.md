@@ -83,8 +83,8 @@ All analysis and codes were written in R.
 
 
 ## Other information
-FOR STUDY PURPOSE ONLY, NO BUSINESS EFFECTS OR SUGGESTIONS
-
+FOR STUDY PURPOSE ONLY, NO BUSINESS EFFECTS OR SUGGESTIONS\
+[*^SMU proprietary logo]\
 Please feel free to contact with further questions to Case Study Partners listed above.
 
 
